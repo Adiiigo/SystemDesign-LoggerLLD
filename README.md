@@ -41,4 +41,5 @@ No completed tasks in queue:2
 Queue is empty and no process has started yet
 ```
 
-Here we cannot see the output with second process beacuse it started and ended so quickly that it didnt even get time to get processed and went through the queue - My understanding can change with time and more knowledge
+Here we cannot see the output with second process beacuse it started and ended so quickly that it didnt even get time to get processed and went through the queue 
+- My understanding can change with time and more knowledge
